@@ -1,5 +1,5 @@
 # SimFed
-This is a simple from-scratch implementation of a framework that simulates a federated learning environment to train ML models. It simulates clients using disjoint data shards and has a server controlling the training of the global model. Currently, the data shards are created from the MNIST dataset although I do want to add the option to use other, more diverse, datasets as well in the future.
+A simple from-scratch implementation of a framework that simulates a federated learning environment to train ML models. It simulates client objects using disjoint data shards and has a server object controlling the training of the global model. Currently, the data shards are created from the MNIST dataset although I do want to add the option to use other, more diverse, datasets as well in the future.
 
 
 ### Instructions to Run Code
@@ -18,7 +18,6 @@ DFML-Project
 ├── config.py
 ├── model.py
 ├── nonFL.py
-├── PalaashGoel_2021547_DFMLProjectReport.pdf
 ├── project.py
 ├── README.md
 ├── requirements.txt
