@@ -1,4 +1,4 @@
-# SimFed
+# SimFed 👾
 A simple from-scratch implementation of a framework that simulates a federated learning environment to train ML models. It simulates client objects using disjoint data shards and has a server object controlling the training of the global model. Currently, the data shards are created from the MNIST dataset although I do want to add the option to use other, more diverse, datasets as well in the future.
 
 
