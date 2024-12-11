@@ -6,7 +6,7 @@ A simple from-scratch implementation of a framework that simulates a federated l
 Make sure the file structure looks like this:
 
 ```
-DFML-Project
+SimFed
 ├── Dataset
 │   ├── MNIST
 │   |   ├── raw          
